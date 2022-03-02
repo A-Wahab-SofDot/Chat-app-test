@@ -1,0 +1,5 @@
+export const GET_MESSAGES = 'GET_MESSAGES'
+export const MESSAGES_ERROR = 'MESSAGES_ERROR'
+export const MESSAGES_LOADING = 'MESSAGES_LOADING'
+export const SET_PAGE = 'SET_PAGE'
+export const SET_NEW_MESSAGE = 'SET_NEW_MESSAGE'
